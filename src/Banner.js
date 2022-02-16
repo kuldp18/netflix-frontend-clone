@@ -26,9 +26,11 @@ const Banner = () => {
     <header
       className="banner"
       style={{
+        background: 'rgba(0,0,0,0.4)',
         backgroundSize: 'cover',
         backgroundImage: `url("https://image.tmdb.org/t/p/original${movie?.backdrop_path}")`,
         backgroundPosition: 'center center',
+        backgroundBlendMode: 'darken',
       }}
     >
       <div className="banner__contents">
