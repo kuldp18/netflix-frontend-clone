@@ -1,5 +1,7 @@
 # Netflix Frontend Clone 🚀
 
+[Live Demo 🚀](https://netflix-clone-kuldp.netlify.app/)
+
 This project was made with [React](https://reactjs.org).
 
 ## Technologies used
