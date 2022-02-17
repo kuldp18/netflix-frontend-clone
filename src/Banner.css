@@ -49,6 +49,12 @@
   transition: all 0.2s;
 }
 
+.banner__trailer {
+  display: block;
+  z-index: 2;
+  margin: 2rem 0;
+}
+
 .banner--fadeBottom {
   height: 16.1rem;
   background-image: linear-gradient(
