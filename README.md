@@ -14,12 +14,12 @@ This project was made with [React](https://reactjs.org).
 ## Screenshots
 
 - **Desktop**
-  <img src="./screenshots/desktop-min.png" width="300">
+  <img src="./screenshots/desktop-min.png">
 
 - **Mobile**
-  <img src="./screenshots/mobile-min.png" width="300">
+  <img src="./screenshots/mobile-min.png">
 - **Tablet**
-  <img src="./screenshots/tablet-min.png" width="300">
+  <img src="./screenshots/tablet-min.png">
 
 ## Available Scripts
 
