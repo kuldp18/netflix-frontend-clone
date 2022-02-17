@@ -1,10 +1,8 @@
 .row {
-  margin-left: 20px;
   color: white;
+  padding: 20px;
 }
-.row__title {
-  padding-left: 20px;
-}
+
 .row__posters {
   display: flex;
   flex-direction: row;
@@ -12,6 +10,7 @@
   overflow-y: hidden;
   overflow-x: scroll;
   padding: 20px;
+  padding-left: 0;
 }
 .row__posters::-webkit-scrollbar {
   display: none;
